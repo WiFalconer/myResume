@@ -1,44 +1,38 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "William D. Falconer",
+    "occupation": "Software Engineer",
+    "location": "Puerto Rico",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "williamfalconer6@gmail.com",
+    "telephone": "+1 (787) 345-0276",
+    "website": "https://wifalconer.github.io/",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Coding Languages: C#, ASP.NET, Python, HTML/CSS, Javascript, PHP",
+        "Frameworks/Systems: MVC, AngularJS, Bootstrap, Visual Studio, Team Foundation Server, IIS, Git",
+        "Databases: Oracle SQL, SQL Server, MySQL, Neo4j",
+        "Cloud Providers: AWS, Azure, IBM Cloud"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Spanish",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@WiFalconer",
+            "url": "https://github.com/WiFalconer"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "William Falconer",
+            "url": "https://www.linkedin.com/in/wifalconerpabon/"
         }
     ]
 }
